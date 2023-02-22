@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-  * main - print _putchar
-  * is written by Ekemini
-  * Return: 0
-  */
+ * main - print _putchar
+ * is written by Kemzy
+ * Return: 0
+ */
 
 int main(void)
 {
